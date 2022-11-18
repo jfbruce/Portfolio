@@ -49,7 +49,7 @@ body {
     height: 250px;
     width: 100%;
     margin-bottom: 30px;
-    background-image: url("../assets/Images/Banner.jpeg");
+    background-image: url("https://raw.githubusercontent.com/jfbruce/Portfolio/main/assets/Images/banner.jpeg");
     background-size: cover;
     background-position: center;
 }
